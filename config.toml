@@ -1,8 +1,8 @@
-title = "Porfa"
+title = "Porfa XYZ"
 baseURL = "https://www.porfa.xyz"
 theme = "minimo"
 defaultContentLanguage = "pt-br"
-disqusShortname = "www-porfa-xyz"
+#disqusShortname = "www-porfa-xyz"
 Paginate = 5
 preserveTaxonomyNames = true
 enableRobotsTXT = true 
@@ -21,10 +21,10 @@ suffix = "Powered by Github Pages, Hugo and Minimo."
 [params.social]
 email = "porfaxyz@gmail.com"
 github = "porfaxyz"
-gitlab = "porfaxyz"
-instagram = "porfaxyz"
-twitter = "porfaxyz"
-youtube = "UCBrKT_aELMXWbWfUcgw63dg"
+#gitlab = "porfaxyz"
+#instagram = "porfaxyz"
+#twitter = "porfaxyz"
+#youtube = "UCBrKT_aELMXWbWfUcgw63dg"
 
 [params.comments]
 enable = true
@@ -44,7 +44,7 @@ hideEntryMeta = ["page"] # boolean / array of sections
 showReadingTime = true
 showLastmod = true
 taxonomyCloudShuffle = true
-accentColor = "#65c8fe"
+accentColor = "#34D399"
 hideMainMenu = false
 
 [params.sidebar]
